@@ -1,0 +1,17 @@
+elasticsearch==7.17.9
+requests
+tqdm
+numpy
+pandas
+scikit-learn
+torch
+torch-geometric
+sentence-transformers
+xgboost
+lightgbm
+faiss-cpu
+pyyaml
+jsonlines
+matplotlib
+seaborn
+networkx
